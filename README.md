@@ -1,2 +1,2 @@
-# Learning-Ubuntu
-Ubuntu学习教程
+# Learning-OS
+操作系统学习教程
